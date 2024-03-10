@@ -1,0 +1,27 @@
+# server's
+/node_modules
+/.env
+/server/models/index.js
+
+# client's
+/client/config/dbConfig.js
+/client/node_modules
+/client/.pnp
+/client.pnp.js
+
+# testing
+/server/coverage
+
+# production
+/server/build
+
+# misc
+/server/.DS_Store
+/server/.env.local
+/server/.env.development.local
+/server/.env.test.local
+/server/.env.production.local
+
+/server/npm-debug.log*
+/server/yarn-debug.log*
+/server/yarn-error.log*
